@@ -1,1 +1,16 @@
 Java es un lenguaje de programación y una plataforma informática que fue comercializada por primera vez en 1995
+
+Java commands
+void: void indica que no se va a pasar ningún dato y en su lugar se deja vacía la ubicación correspondiente.
+args: args se utiliza para pasar valores en forma de matriz desde la línea de comandos al método main de Java.
+string:string define una cadena en Java.
+System.out.println:	Con este comando tienes una salida de texto a través de la consola. Después de la salida, también se inserta una nueva línea.
+private:	private garantiza que una función sólo se ejecute dentro de la clase correspondiente.
+int (integer):	int especifica números enteros en Java, que pueden ser positivos o negativos.
+int primeracifra:	Este comando crea una variable int y le da el nombre “primeracifra”.
+double:	double especifica números decimales y almacena datos con doble precisión.
+double resultado;:	Este comando crea una variable double y le da el nombre de “resultado”.
+char: char se utiliza para especificar exactamente un carácter.
+char uncarácter; Este comando crea una variable char y le da el nombre “uncarácter”.
+try catch: try devuelve una cadena de comandos que quieres ejecutar y catch es un refuerzo que realiza una segunda operación si la primera no funciona.
+if ( condición ) {Primer indicación}else {Segunda indicación}:Con if y else puedes comprobar si una variable tiene un valor determinado. Si cumple la condición, se ejecuta la primera indicación. Si la condición no se cumple, se ejecuta la segunda indicación.
